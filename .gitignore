@@ -1,0 +1,36 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+log/
+debug.log
+error.log
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Cache & Temp Files
+.cache/
+tmp/
+dist/
+build/
+
+# OS-Specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+.idea/
+*.swp
+*.swo
