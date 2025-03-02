@@ -14,7 +14,7 @@
 
 ### Post Man API reference
 ```
-https://www.postman.com/telecoms-geoscientist-96301949/workspace/assignment/collection/31408552-03f835da-64dd-46c4-82ca-f26abfec3de6?action=share&creator=31408552&active-environment=31408552-a92c8ac7-eb9f-4d6b-bc8a-d5bc3b6d0dd8
+https://www.postman.com/telecoms-geoscientist-96301949/assignment/overview
 ```
 ### .env
 ```
