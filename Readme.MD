@@ -2,7 +2,7 @@
 
 ### Features
 
-- > User Authentication (Signup, Login, and Logout)
+- > User Authentication (Signup, Login)
 
 - > JWT-based Authorization
 
